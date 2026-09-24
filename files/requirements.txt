@@ -1,0 +1,9 @@
+tensorflow>=2.15.0
+opencv-python>=4.8.0
+numpy>=1.24.0
+Pillow>=10.0.0
+
+# Optional
+# pytesseract>=0.3.10      # OCR of printed expiry dates on labels
+# firebase-admin>=6.4.0    # push notifications to the mobile app
+# APScheduler>=3.10.0      # run the daily expiry check automatically
